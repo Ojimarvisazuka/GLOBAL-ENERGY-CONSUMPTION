@@ -51,10 +51,10 @@ The global population is increasing, and this places more pressure on energy. In
 
 
 ## Recommendation
-There is no single solution to decarbonising every sector. Nonetheless, the following recommendations have been made as a step forward:
+There is no single solution to decarbonising every sector. Nonetheless, the following recommendations can be adopted by nations as a step forward:
 
 - Accelerating transition in the Power sector through renewables like wind and solar
 - Expanding emission trading to all major sectors to reduce emissions
-- Transitioning from coal to Gas especially by high emitting nations. Gas reduces anthrogenic emissions by 40% in comparison to Coal.
-- 
+- Transitioning from coal to gas especially by high emitting nations. Gas reduces anthrogenic emissions by 40% in comparison to Coal. This switch from coal to gas was hugely responsible for the reduction in UK's emssions in the last decade.
+  
 
