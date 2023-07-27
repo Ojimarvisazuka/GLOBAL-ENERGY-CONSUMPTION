@@ -20,12 +20,23 @@ This dataset, sourced from BP statistical review of World Energy and SHIFT Data 
 
 
 ## Data Transformation/Cleaning
+The Data was transformed and cleaned on Power BI's Power Query Editor. Steps taken to wrangle, transform and clean the data includes:
+
+- Used first row as column Headers
+- Removed Duplicated columns
+- Removed unwanted columns
+- Replaced null or empty values
+- Changed column data to corresponding data type  
 
 
 ## Data Modelling
+Data modelling was not relevant to this analysis as the file is a single table document
+
 
 
 ## Visualization
+Having completed the necessary cleaning to ensure data quality, the dashboard below was created using Power BI
 
+![](World_Energy_Consumption_Dashboard_.jpg)
 
 ## Conclusion & Recommendation
