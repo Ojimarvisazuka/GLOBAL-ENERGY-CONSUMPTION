@@ -39,4 +39,5 @@ Having completed the necessary cleaning to ensure data quality, the dashboard be
 
 ![](World_Energy_Consumption_Dashboard_.jpg)
 
+
 ## Conclusion & Recommendation
