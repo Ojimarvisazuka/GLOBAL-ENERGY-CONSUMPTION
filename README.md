@@ -40,4 +40,17 @@ Having completed the necessary cleaning to ensure data quality, the dashboard be
 ![](World_Energy_Consumption_Dashboard_.jpg)
 
 
-## Conclusion & Recommendation
+
+## Conclusion 
+The global population is increasing, and this places more pressure on energy. Incidentally, the top 3 most populated Countries were also the top nations in fossil fuel consumption. They are also richly endowed with high energy consuming industries such as the Shipping, Aviation, Iron and Steel which have been tagged the "hard-to-decarboise" sectors. These sectors thrive on high energy density. Although, renewables have increased in the global energy mix in the last 2 decades (6.8% in 1999 to 10.8% in 2019). However, the absence of clean alternatives to the "hard-to-decarbonise" sectors, poses a challenge to achieving net-zero as they are the highest emitting sources.
+
+
+
+## Recommendation
+There is no single solution to decarbonising every sector. Nonetheless, the following recommendations have been made as a step forward:
+
+- Accelerating transition in the Power sector through renewables like wind and solar
+- Expanding emission trading to all major sectors to reduce emissions
+- Transitioning from coal to Gas especially by high emitting nations. Gas reduces anthrogenic emissions by 40% in comparison to Coal.
+- 
+
