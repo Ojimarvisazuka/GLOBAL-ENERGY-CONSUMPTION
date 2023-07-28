@@ -4,7 +4,7 @@
 
 
 ## Introduction
-The population of the World has doubled in the last 5 decades. From 3.3 billion in 1965, it rose to 7.7 billion ass of 2019. The implication is increased energy consumption. Unfortunately, the global energy mix which is dominated by fossil fuel has increasingly become an issue owing to the emission of environmentally damaging greenhouse gases. Sea level rise, seasonal changes and flooding have become prevalent in the last decade as a result of these emissions. To avert this, global temperatures must be limited to an average of 1.5-degree-Celsius above pre industrial levels. Emission reduction pledges aimed at halving greenhouse gas emsissions by 2030 were made by Nations at the UN Paris Conference in 2015. But, have Nations made adjustments in respect of these pledges?
+The population of the World has doubled in the last 5 decades. From 3.3 billion in 1965, it rose to 7.7 billion as of 2019. The implication is increased energy consumption. Unfortunately, the global energy mix which is dominated by fossil fuel has increasingly become an issue owing to the emission of environmentally damaging greenhouse gases. Sea level rise, seasonal changes and flooding have become prevalent in the last decade as a result of these emissions. To avert this, global temperatures must be limited to an average of 1.5-degree-Celsius above pre industrial levels. To bring this to fruition, emission reduction pledges aimed at halving greenhouse gas emsissions by 2030 were made by Nations at the UN Paris Conference in 2015. But, have Nations made considerable adjustments in respect of these pledges?
 
 
 
